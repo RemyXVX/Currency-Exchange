@@ -17,7 +17,7 @@
 * Jest
 
 ## Description
-_In this project we are dislaying how to test our code, and push code that run efficently. We will be debugging and refactoring whenever we can_
+_This project will display the use of an API that will allow the user to exchange currency_
 
 ## Webpage
 * https://github.com/RemyXVX/Currency-Exchange
@@ -68,8 +68,8 @@ npm run lint
 ```
 
 ## Known Bugs
-* _My UI is sadical, and the webpage makes me cry_
+* _Page is a work in progress_
 
 ## License
 * _MIT_
-Copyright (c) _10/8/22_ _Remy Flores_
+Copyright (c) _10/21/22_ _Remy Flores_
